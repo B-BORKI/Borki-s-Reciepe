@@ -3,12 +3,12 @@
 Welcome 
 
 
-#1 kheer
-#2 Butter chicken
+1 kheer
+
+2 Butter chicken 
 
 
 
 
 
-
-#Thank you 
+ Thank you 
