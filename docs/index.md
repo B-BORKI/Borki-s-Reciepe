@@ -1,4 +1,4 @@
-## <h1>Welcome to Borki's Recipes</h1> 
+## Welcome to Borki's Recipes
 
 1 kheer
 
